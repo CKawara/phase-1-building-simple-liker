@@ -24,6 +24,7 @@ const likes = document.querySelectorAll('.like-glyph')
         })
       } 
     })
+
   
 
 
